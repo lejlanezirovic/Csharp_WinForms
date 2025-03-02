@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="FORME\frmNovaPoruka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORME\frmPoruke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORME\frmPretragaStudentUloga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPocetna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Izvjestaji\frmIzvjestaji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Izvjestaji\DataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
